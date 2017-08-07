@@ -1,2 +1,2 @@
-# project1
-html page with css javascript jquery boot bootstrap
+# Website-1DHCJ
+Barebones of the new site thats coming, Django framework not yet implemented.
